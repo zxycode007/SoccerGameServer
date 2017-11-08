@@ -12,3 +12,5 @@ E:\BaiduYunDownload\AsycServer-master\AsycServer-master\AsycServer\obj\Debug\Asy
 E:\workspace\u3d\AsycServer-master\AsycServer\bin\Debug\AsycServer.exe.config
 E:\workspace\u3d\AsycServer-master\AsycServer\obj\Debug\AsycServer.exe
 E:\workspace\u3d\AsycServer-master\AsycServer\obj\Debug\AsycServer.pdb
+E:\workspace\u3d\AsycServer-master\AsycServer\bin\Debug\AsycServer.exe
+E:\workspace\u3d\AsycServer-master\AsycServer\bin\Debug\AsycServer.pdb

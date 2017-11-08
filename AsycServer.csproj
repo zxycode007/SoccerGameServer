@@ -45,6 +45,7 @@
     <Compile Include="CharData.cs" />
     <Compile Include="Client.cs" />
     <Compile Include="cProto.cs" />
+    <Compile Include="GamePlayer.cs" />
     <Compile Include="MessageBuffer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
